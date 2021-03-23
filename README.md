@@ -1,2 +1,3 @@
-# cucumber-junit5-example
-This example shows how to execute cucumber scenarios with JUnit 5. 
+# Cucumber examples
+
+This repository contains multiple examples using the Cucumber BDD tool. These examples are referenced from my blog [Softwerkbank](http://softwerkbank.ch).
